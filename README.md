@@ -20,9 +20,9 @@ TEAM DETAILS:
 College Name: IGDTUW
 Team Name : Ode to Code
 Team Members :
-1. Ayushi Dubey (AI ML 1ST YEAR, 01601192022, adayushi232@gmail.com)
-2. Monya Mehta (AI ML 1ST YEAR, 03401192022, monyamehta2107@gmail.com)
-3. Manasvi Jindal (AI ML 1ST YEAR, 03101192022, manasvijindal28@gmail.com)
+1. Ayushi Dubey (AI ML 1ST YEAR, 01601192022, adayushi232@gmail.com, @dubeyayushi)
+2. Monya Mehta (AI ML 1ST YEAR, 03401192022, monyamehta2107@gmail.com, monya271)
+3. Manasvi Jindal (AI ML 1ST YEAR, 03101192022, manasvijindal28@gmail.com, @manasvijindal)
 
 
 
