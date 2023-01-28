@@ -9,32 +9,4 @@ DATASET USED:
 
 To build our project, we decided to use datasets available on kaggle.com
 
-DATA FEATURES
-
-ID: Id of the user(All Unique)
-
-
-Income: Income of the user
-
-Age: Age of the user
-
-Experience: Professional experience of the user in years
-
-Profession: Profession of the user
-
-Married/Single: Whether married or not
-
-House Ownership: Owned or rented or neither
-
-Car Ownership: Does the person own a car
-
-STATE: State of residence
-
-CITY: City of residence
-
-CURRENT_JOB_YRS: Years of experience in the current job
-
-CURRENT_HOUSE_YRS: Number of years in the current residence
-
-Risk_Flag: Defaulted on a loan (Target variable)
 
