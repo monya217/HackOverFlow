@@ -1,6 +1,6 @@
 # HackOverflow2.0
 
-LOAN CREDIBILITY PREDICTOR
+LENDIGO
 
 PROBLEM STATEMENT (8. FINTECH - IMPROVED CREDIT SCORING)
 
@@ -22,6 +22,6 @@ TEAM DETAILS:
 College Name: IGDTUW
 Team Name : Ode to Code
 Team Members :
-1. Ayushi Dubey (AI ML 1ST YEAR, 01601192022, adayushi232@gmail.com, Username: @dubeyayushi, Github Profile link: https://github.com/dubeyayushi)
-2. Monya Mehta (AI ML 1ST YEAR, 03401192022, monyamehta2107@gmail.com, Username: @monya217, Github Profile link: https://github.com/monya217)
-3. Manasvi Jindal (AI ML 1ST YEAR, 03101192022, manasvijindal28@gmail.com, Username: @manasvijindal, Github Profile link: https://github.com/manasvijindal)
+1. Ayushi Dubey (AI ML 1ST YEAR, 01601192022, adayushi232@gmail.com, Username: @dubeyayushi, GitHub Profile link: https://github.com/dubeyayushi)
+2. Monya Mehta (AI ML 1ST YEAR, 03401192022, monyamehta2107@gmail.com, Username: @monya217, GitHub Profile link: https://github.com/monya217)
+3. Manasvi Jindal (AI ML 1ST YEAR, 03101192022, manasvijindal28@gmail.com, Username: @manasvijindal, GitHub Profile link: https://github.com/manasvijindal)
